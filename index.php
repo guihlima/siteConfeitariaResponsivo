@@ -48,7 +48,7 @@
                     <h1 class="home__title">Confeitaria das Amigas</h1>
                     <p class="home__description">A melhor confeitaria da região, aqui encontra-se bolos com diversos temas, e contamos com salgados de diversos tipos, como também tortas geladas de sua preferência.</p>
 
-                    <a href="#">Faça seu pedido</a>
+                    <a href="#" id="home__btn">Faça seu pedido</a>
                 </div>
                 <div class="home__img">
                     <img src="./img/cake.jpg" alt="Imagem Bolo">
